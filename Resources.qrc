@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tuxdroid.png</file>
+	   <file>tux_remote.png</file>
+    </qresource>
+</RCC>
